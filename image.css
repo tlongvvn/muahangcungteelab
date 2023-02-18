@@ -24,7 +24,7 @@
     transition: all 0.15s ease-in-out;    
 }
 .columb>.image>.image-2:hover{
-    background-image: url('/anh/anhsau2.png');   
+    background-image: url('anh/anhsau2.png');   
 }
 
 
@@ -38,7 +38,7 @@
 
 
 .columb>.image>.image-3:hover{
-    background-image: url('/anh/anhsau3.png');   
+    background-image: url('anh/anhsau3.png');   
 }
 .columb>.image>.image-4{
     background-image: url(anh/anhtruoc4.png);
@@ -48,7 +48,7 @@
     transition: all 0.15s ease-in-out;    
 }
 .columb>.image>.image-4:hover{
-    background-image: url('/anh/anhsau4.png');   
+    background-image: url('anh/anhsau4.png');   
 }
 
 
