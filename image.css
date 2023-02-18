@@ -11,9 +11,7 @@
     height: 300px;
     transition: all 0.15s ease-in-out;    
 }
-.columb>.image>.image-1:hover{
-    background-image: url('anh/ao1sau.png');   
-}
+
 
 
 .columb>.image>.image-2{
